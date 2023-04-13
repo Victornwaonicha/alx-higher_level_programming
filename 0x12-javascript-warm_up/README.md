@@ -2,7 +2,7 @@
 This is an ALX project directory containing introductory tasks on `JavaScript`, the files therein are solutions to tasks that serves as "warm up".
 
 <p align="center">
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4ae30fb44f708dbb3abc211b784db614e615ca21.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230413T151820Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42e807b946c61e735adbf52e7abe5c4bfdb1bdb6e5cca02ab5d0652c3ad4018e" />
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg" width="500" height="400" />
 </p>
 
 ## Requirements and Environment
